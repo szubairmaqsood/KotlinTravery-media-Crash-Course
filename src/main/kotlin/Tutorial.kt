@@ -13,6 +13,7 @@ fun main(){
     println();
     println("What's up?");
     println(26);
+    valAndVarUsage();
 
 
 }
