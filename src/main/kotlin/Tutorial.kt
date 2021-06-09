@@ -17,5 +17,6 @@ fun main(){
     arthmaticOperations();
     decimalNumber();
     stringUsage();
-    logicalAndComparisonOperator()
+    logicalAndComparisonOperator();
+    useOfConditional();
 }
