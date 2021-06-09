@@ -14,6 +14,7 @@ fun main(){
     println("What's up?");
     println(26);
     valAndVarUsage();
+    arthmaticOperations();
 
 
 }
