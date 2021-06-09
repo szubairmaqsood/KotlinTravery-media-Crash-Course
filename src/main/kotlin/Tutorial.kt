@@ -16,6 +16,5 @@ fun main(){
     valAndVarUsage();
     arthmaticOperations();
     decimalNumber();
-
-
+    stringUsage();
 }
