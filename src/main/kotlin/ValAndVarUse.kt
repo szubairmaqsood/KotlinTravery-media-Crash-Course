@@ -23,4 +23,8 @@ fun valAndVarUsage(){
     //fixedValueVariable = false;
     println(fixedValueVariable);
 
+    val myFavoriteNumber = 5;
+    var myCurrentAge: Int = 26;
+    println("My favorite number is $myFavoriteNumber and my current age is $myCurrentAge");
+
 }
