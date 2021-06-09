@@ -15,6 +15,7 @@ fun main(){
     println(26);
     valAndVarUsage();
     arthmaticOperations();
+    decimalNumber();
 
 
 }
